@@ -5,7 +5,6 @@ import java.util.Scanner;
 class Circle {
     private double radius;
 
-    // Constructor
     public Circle(double radius) {
         this.radius = radius;
     }
