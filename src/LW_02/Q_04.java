@@ -11,7 +11,7 @@ public class Q_04 {
 
         Scanner x = new Scanner(System.in);
 
-        System.out.println("Enter Values:");
+        System.out.println("Enter 5 Values:");
         for (int i=0;i< arr.length;i++){
             arr[i]=x.nextInt();
         }
