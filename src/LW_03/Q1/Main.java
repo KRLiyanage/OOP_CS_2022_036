@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
         double celsius;
         double fahrenheit;
 
@@ -28,5 +29,7 @@ public class Main {
         } else {
             System.out.println("Invalid input");
         }
+
     }
 }
+
