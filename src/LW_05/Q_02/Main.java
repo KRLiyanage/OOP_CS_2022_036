@@ -17,7 +17,7 @@ public class Main {
         seDept.offerCourse(oop);
 
         csDegree.offerCourse(oop);
-//gygyg
+
         oop.addLecturerInCharge(lec1);
         oop.addDegreeBelongsTo(csDegree);
 

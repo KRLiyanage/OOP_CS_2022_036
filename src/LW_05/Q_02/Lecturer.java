@@ -1,7 +1,7 @@
 package LW_05.Q_02;
 
 import java.util.ArrayList;
-//fdhu
+
 public class Lecturer extends Person {
 
     private String position;
