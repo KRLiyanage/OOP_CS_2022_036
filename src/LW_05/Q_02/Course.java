@@ -35,7 +35,7 @@ public class Course {
     public void setName(String name) {
         this.name = name;
     }
-
+//ff
     public void setEnrollType(String enrollType) {
         this.enrollType = enrollType;
     }

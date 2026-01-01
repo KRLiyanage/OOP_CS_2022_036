@@ -1,5 +1,5 @@
 package LW_05.Q_02;
-
+//euw
 public abstract class Person {
 
     private String name;

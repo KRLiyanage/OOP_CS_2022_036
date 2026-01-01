@@ -38,7 +38,7 @@ public class Degree {
     public void offerCourse(Course course) {
         coursesOffering.add(course);
     }
-
+//fijh
     public void withdrawCourse(Course course) {
         coursesOffering.remove(course);
     }

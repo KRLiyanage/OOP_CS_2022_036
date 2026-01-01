@@ -44,7 +44,7 @@ public class Department {
     public void withdrawCourse(Course course) {
         coursesOffering.remove(course);
     }
-
+//ffj
     public void addLecturer(Lecturer lecturer) {
         lecturersBelongsTo.add(lecturer);
     }
